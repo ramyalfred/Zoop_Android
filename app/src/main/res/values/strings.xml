@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Stock Up</string>
+    <string name="button_fb">Continue with Facebook</string>
+    <string name="button_google">Continue with Google</string>
+    <string name="button_email">Create an account</string>
+    <string name="button_phone">Sign in with phone</string>
+    <string name="button_login"> Log in</string>
+    <string name="text_welcome">Welcome to \n Zoop!</string>
+    <string name="text_start_hint">Sign up to start an unmatched experience</string>
+    <string name="input_name_hint">Full Name</string>
+    <string name="edit_password_hint">Password</string>
+    <string name="eidt_email_hint">E-mail</string>
+    <string name="text_otherlogin">Or you can use on of the below options. Don\'t worry we won\'t post anything on your behalf.</string>
+    <string name="text_account">Already have an account?</string>
+
+    <string name="facebook_app_id">2557157977881210</string>
+    <string name="fb_login_protocol_scheme">fb2557157977881210</string>
+
+</resources>
