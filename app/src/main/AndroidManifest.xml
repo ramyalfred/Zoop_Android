@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.stockup">
 
-    //Permissions
+    <!--Permissions-->
     <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
@@ -13,7 +13,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-        //For handling Facebook sign-in
+        <!--Declaring facebook SDK-->
         <meta-data android:name="com.facebook.sdk.ApplicationId"
             android:value="@string/facebook_app_id"/>
 
@@ -32,7 +32,7 @@
             </intent-filter>
         </activity>
 
-        //Declaring the main activity
+        <!--Main Launcher-->
         <activity android:name=".activity.MainActivity">
             <intent-filter>
             <category android:name="android.intent.category.LAUNCHER"/>
